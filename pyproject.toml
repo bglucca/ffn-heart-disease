@@ -1,0 +1,18 @@
+[project]
+name = "ffn-heart-disease"
+version = "0.1.0"
+description = "Simple project to explore PyTorch and Feed-Forward Neural Networks (MLP)"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas",
+    "scikit-learn",
+    "numpy",
+    "matplotlib",
+    "seaborn",
+    "plotly",
+    "scipy",
+    "joblib",
+    "torch",
+    "ipykernel"
+]
