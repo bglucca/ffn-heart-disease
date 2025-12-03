@@ -14,5 +14,7 @@ dependencies = [
     "scipy",
     "joblib",
     "torch",
-    "ipykernel"
+    "ipykernel",
+    "ucimlrepo",
+    "loguru"
 ]
